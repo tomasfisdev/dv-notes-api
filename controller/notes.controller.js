@@ -8,7 +8,7 @@ export function getAllNotes(req, res) {
         notes,
       });
     })
-    //aaa
+    ///asdasdasdasd
     .catch(function (err) {
       res.status(400).json({
         error: 400,
